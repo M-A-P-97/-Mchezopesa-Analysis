@@ -1,6 +1,6 @@
 # Mchezopesa-Analysis
 #### Mchezopesa Dataset Analysis, 31/05/2020
-#### By **Patrick Mariwa Atak**
+#### By **M A P**
 ## Description
 In this project I sought to understand the football rankings by solving for the research question. 
 You have been recruited as a football analyst in a company - Mchezopesa Ltd and tasked to accomplish the task below. 
@@ -36,4 +36,4 @@ Feature Engineering: Figure out from the home team’s perspective if the game i
 * Scikit-Learn
 
 ### License
-**MIT (c) 2020 Patrick Atak**
+**MIT (c) 2020 M A P**
